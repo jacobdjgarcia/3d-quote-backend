@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: 3d-quote-backend
-    env: python
-    buildCommand: ""
-    startCommand: "python server.py"
-    plan: free
-    envVars: []
